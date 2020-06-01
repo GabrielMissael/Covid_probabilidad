@@ -8,8 +8,10 @@ En el presente trabajo, se realiza un análisis estadístico para una variable a
 - Distintas gráficas que ayudan a comprender los datos.
 - Un par de distribuciones de probabilidad para nuestro tópico principal que es, como se mencionó anteriormente, el tiempo transcurrido en días desde los primeros síntomas del COVID-19 hasta su defunción, a continuación un ejemplo:
 
-[![](https://sourcerer.io/fame/RodolfoFerro/RodolfoFerro/covid19-gto/images/0)]
-
+<img src="https://raw.githubusercontent.com/GabrielMissael/Covid_probabilidad/master/Gr%C3%A1ficos/Distintos_ajustes_para_un_data.jpg" alt="drawing" width="300" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;"/>
 
 ## ¿Quieres ver cómo procesamos los datos?
 
